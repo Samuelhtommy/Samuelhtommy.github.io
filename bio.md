@@ -5,7 +5,7 @@
 
 ### September 1994 - ???? 
 
-[**Return to Index**](https://github.com/Samuelhtommy/Samuelhtommy.github.io/index.md)
+[**Return to Index**](https://github.com/Samuelhtommy/Samuelhtommy.github.io/blob/master/index.md)
 
 **BIO**
 
