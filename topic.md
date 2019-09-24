@@ -27,4 +27,4 @@ Computer technology has progressed a great deal, and those that have been able t
 ![fire](http://www.mixdownmag.com.au/sites/default/files/styles/flexslider_h400/public/images/Tinder_logo_070214.jpg?itok=_wC8WljP&c=4090aab7b5a4f4460daf2161d9d0f38e)
 
 
-**[Return to Index](https://github.com/Samuelhtommy/Samuelhtommy.github.io/blob/master/index.md)**
+**[Return to Index](https://samuelhtommy.github.io)**
